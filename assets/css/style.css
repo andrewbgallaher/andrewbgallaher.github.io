@@ -260,7 +260,7 @@ fieldset {
 }
 
 .header-text h2 {
-    font-size: 60px;
+    font-size: 48px;
     color: #313539;
     font-weight: 900;
     margin-bottom: 20px;
@@ -270,7 +270,7 @@ fieldset {
 }
 
 .header-text h2 span {
-    font-size: 140px;
+    font-size: 100px;
     color: #FC604D;
 }
 
