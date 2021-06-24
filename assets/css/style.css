@@ -260,17 +260,17 @@ fieldset {
 }
 
 .header-text h2 {
-    font-size: 48px;
+    font-size: 36px;
     color: #313539;
     font-weight: 900;
     margin-bottom: 20px;
     text-transform: capitalize;
-    line-height: 90px;
+    line-height: 70px;
     margin-top: 0;
 }
 
 .header-text h2 span {
-    font-size: 100px;
+    font-size: 72px;
     color: #FC604D;
 }
 
