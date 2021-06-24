@@ -755,7 +755,7 @@ ul.work li.active {
 }
 
 .work figure.effect-bubba h2 {
-    margin-top: 30%;
+    margin-top: 10%;
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     font-size: 40px;
@@ -771,7 +771,6 @@ ul.work li.active {
 
 .work figure.effect-bubba p {
     font-size: 16px;
-    text-transform: lowercase;
 }
 
 .work .item:hover figure.effect-bubba h2 {
